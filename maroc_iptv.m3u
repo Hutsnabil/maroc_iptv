@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF-1 tvg-id=2M Maroc tvg-name=2M Monde MA tvg-logo=httpsm.2m.mastaticimages2m-logo-thumbnail.png group-title=Maroc,2M Maroc
+httpscdnamd-hls-globecast.akamaized.netliveramdisk2m_mondehls_video_ts2m_monde.m3u8 
+#EXTINF0  tvg-id=Al Aoula
+httpscdnamd-hls-globecast.akamaized.netliveramdiskal_aoula_interhls_snrtindex.m3u8
+#EXTINF-1  tvg-id=Arryadia
+httpscdnamd-hls-globecast.akamaized.netliveramdiskarriadiahls_snrtindex.m3u8
+#EXTINF-1  tvg-id=Al Jazeera
+httpslive-hls-web-aja.getaj.netAJAindex.m3u8
+#EXTINF-1  tvg-id=Tamazight
+httpscdnamd-hls-globecast.akamaized.netliveramdisktamazight_tv8_snrthls_snrtindex.m3u8
+#EXTINF-1 tvg-id=Al Maghribia MA tvg-name=Al Maghribia MA tvg-logo=httpsraw.githubusercontent.com3nakibIPTVmastericonsAlMaghribia.ma.png group-title=Maroc,Al Maghribia MA
+httpcdnamd-hls-globecast.akamaized.netliveramdiskal_maghribia_snrthls_snrtindex.m3u8
